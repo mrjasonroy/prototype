@@ -1,0 +1,34 @@
+2011-11-17 14:24:46     error sass/style.scss (Line 25: File to import not found or unreadable: partials/page.
+Load paths:
+  /Users/jason/Compare Networks/Product Development/Biocompare/Migration/Search Tools/prototype/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-11-17 14:24:46    create stylesheets/style.css 
+2011-11-17 14:27:05    create stylesheets/partials/bootstrap.css 
+2011-11-17 14:29:02     error sass/style.scss (Line 31: Undefined mixin 'font-size'.)
+2011-11-17 14:29:02 overwrite stylesheets/style.css 
+2011-11-17 14:29:11     error sass/style.scss (Line 31: Undefined mixin 'font-size'.)
+2011-11-17 14:29:11 identical stylesheets/style.css 
+2011-11-17 14:29:38     error sass/style.scss (Line 31: Undefined mixin 'font-size'.)
+2011-11-17 14:29:38 identical stylesheets/style.css 
+2011-11-17 14:29:45     error sass/style.scss (Line 31: Undefined mixin 'font-size'.)
+2011-11-17 14:29:45 identical stylesheets/style.css 
+2011-11-17 14:30:04     error sass/style.scss (Line 31: Undefined mixin 'font-size'.)
+2011-11-17 14:30:04 identical stylesheets/style.css 
+2011-11-17 14:30:40 overwrite stylesheets/style.css 
+2011-11-17 14:30:59 identical stylesheets/style.css 
+2011-11-17 14:35:16 overwrite stylesheets/style.css 
+2011-11-17 14:51:36    create stylesheets/partials/ui_aristo.css 
+2011-11-17 14:55:22     error sass/style.scss (Line 11: File to import not found or unreadable: partials/ui-aristo.
+Load paths:
+  /Users/jason/Compare Networks/Product Development/Biocompare/Migration/Search Tools/prototype/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-11-17 14:55:22 overwrite stylesheets/style.css 
+2011-11-17 14:55:49 overwrite stylesheets/style.css 
